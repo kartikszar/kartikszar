@@ -1,0 +1,5 @@
+{
+	"ip":"kartikszar.aternos.me",
+	"port": "50908",
+	"name": "afkbot"
+}
